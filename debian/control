@@ -1,0 +1,13 @@
+Source: plasma-widgets-volumewin7mixer
+Section: kde
+Priority: optional
+Maintainer: Rohan Garg <rohan@kde.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/Zren/plasma-applets
+
+Package: plasma-widgets-volumewin7mixer
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: windows 7 themed volume plasmoid for Plasma 5
+ This package contains a volume plasmoid for Plasma 5
