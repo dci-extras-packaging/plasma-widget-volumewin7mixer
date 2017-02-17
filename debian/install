@@ -1,1 +1,1 @@
-org.kde.plasma.volumewin7mixer/package /usr/share/plasma/plasmoids/org.kde.plasma.volumewin7mixer/
+org.kde.plasma.volumewin7mixer/package/* /usr/share/plasma/plasmoids/org.kde.plasma.volumewin7mixer/
