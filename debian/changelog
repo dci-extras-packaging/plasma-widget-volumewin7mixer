@@ -1,3 +1,9 @@
+plasma-widget-volumewin7mixer (24-1) stable; urgency=medium
+
+  * Fix multi-arch.
+
+ -- Scarlett Moore <sgmoore@kde.org>  Tue, 28 Jan 2020 18:54:21 -0700
+
 plasma-widget-volumewin7mixer (23-1) testing; urgency=medium
 
   * Updated to new version
